@@ -1,1 +1,2 @@
 # intensive
+for study projects
